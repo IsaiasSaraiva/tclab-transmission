@@ -1,0 +1,40 @@
+{
+  "input_file": "tclab_data_7days.csv",
+  "noise_level": "medium",
+  "total_samples": 610800,
+  "channel_statistics": {
+    "T1": {
+      "total": 610800,
+      "corrupted": 53059,
+      "crc_errors": 53059,
+      "hamming_corr": 43114,
+      "unrecoverable": 2
+    },
+    "T2": {
+      "total": 610800,
+      "corrupted": 52469,
+      "crc_errors": 52469,
+      "hamming_corr": 42818,
+      "unrecoverable": 1
+    },
+    "Q1": {
+      "total": 610800,
+      "corrupted": 52269,
+      "crc_errors": 52269,
+      "hamming_corr": 42443,
+      "unrecoverable": 2
+    },
+    "Q2": {
+      "total": 610800,
+      "corrupted": 52355,
+      "crc_errors": 52355,
+      "hamming_corr": 42389,
+      "unrecoverable": 3
+    }
+  },
+  "noise_config": {
+    "ber": 0.001,
+    "burst_prob": 0.01,
+    "burst_len": 2
+  }
+}
