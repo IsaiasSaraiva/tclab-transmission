@@ -366,10 +366,15 @@ tclab-transmission/
 
 ## 👨‍💻 Autores
 
-**Isaías [Sobrenome]**  
-📧 Email: [seu-email@email.com]  
-🔗 GitHub: [@seu-usuario](https://github.com/seu-usuario)  
-🎓 PPGEE - [Sua Universidade]
+**Isaías Saraiva**  
+📧 Email: [isaias.saraiva@icomp.ufam.edu.br]  
+🔗 GitHub: [https://github.com/IsaiasSaraiva/]  
+🎓 PPGEE - [Universidade Federal do Amazonas]
+
+
+**Hércules Silva**  
+📧 Email: [hércules.silva@gmail.com]   
+🎓 PPGEE - [Universidade Federal do Amazonas]
 
 ---
 
