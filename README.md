@@ -373,7 +373,7 @@ tclab-transmission/
 
 
 **Hércules Silva**  
-📧 Email: [hércules.silva@gmail.com]   
+📧 Email: [Herculesacs@gmail.com]   
 🎓 PPGEE - [Universidade Federal do Amazonas]
 
 ---
