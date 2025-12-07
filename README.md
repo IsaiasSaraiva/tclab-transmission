@@ -1,4 +1,4 @@
-# 📡 Sistema de Transmissão Robusta TCLab
+# 📡 Sistema de Transmissão  TCLab
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -409,11 +409,3 @@ Este projeto está sob a licença MIT.
 - [ ] Comparação com padrões WirelessHART
 
 ---
-
-<div align="center">
-
-**⭐ Se este projeto foi útil, considere dar uma estrela!**
-
-**Feito com ❤️ e ☕ por Isaías**
-
-</div>
